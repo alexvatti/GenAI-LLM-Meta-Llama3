@@ -1,0 +1,3 @@
+bitsandbytes==0.43.1
+accelerate==0.29.1
+transformers==4.40.0
